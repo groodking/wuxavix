@@ -1,0 +1,34 @@
+body
+  {
+    background-color:powderblue;
+  }
+
+  hr
+  {
+    background-color: powderblue;
+    border-style:  dotted none none;
+    border-color:grey;
+    border-width: 5px;
+    width: 3%;
+  }
+
+  h1
+  {
+    color: #66bfbf;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    font-style: italic;
+  }
+  h3
+  {
+    color: #66bfbf;
+    font-style: italic;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  }
+
+  img
+  {
+    border-style: dotted;
+    height: 160px;
+    width: 160px;
+    border-radius: 100%
+  }
